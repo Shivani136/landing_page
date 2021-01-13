@@ -1,0 +1,107 @@
+
+
+header{
+    background-color: rgb(65, 64, 64);
+    padding: 1px;
+    font-weight: normal;
+    color: white;
+    }
+
+    header span{
+    color: orange;
+    font-size: 40px;
+    }
+
+    nav{
+    background-color: #666;
+    padding: 5px;
+   }
+nav a {
+    padding: 0;
+    text-decoration: none;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 12px;
+    border-right: 3px solid gray; 
+    }
+   nav a span{
+    color: white;
+    font-size: 18px;
+  }
+
+    img{
+    float: left; 
+    padding-right: 20px;
+    }
+    .line{
+        margin-left: 22px;
+    }
+
+    div{
+    margin: 20px; 
+    }
+    .text{
+    padding-right: 1000px;
+    }
+
+    div a {
+    color: orange;
+    }
+
+    aside{
+    float: right;
+    width: 30%;
+    height: 549px; 
+    background: lightgray;
+    padding: 20px;
+    }
+
+    ul{
+    list-style-type: none;
+    padding: 0;
+    text-decoration: none;
+    background-color: lightgray;
+    }
+
+    li a{
+    text-decoration: none; 
+    }
+
+    ul span{
+    color: orange;
+    }
+    .bottom{
+     padding-bottom: 25px;
+    }
+
+    footer{
+    background-color: #666;
+    padding: 1px;
+    color: white;
+    text-align: center;
+    }
+    footer span{
+        color: orange;
+    }
+     aside li{
+list-style: none;
+    }
+    nav a{
+        list-style: none;
+        }
+    .color:hover{
+    color: blue;
+    }
+    div a{
+        list-style: none;
+        }
+    .link:hover{
+   color: green;
+    }
+    aside  ul li {
+        list-style: none;
+        }
+    .side-color:hover{
+   color: red;
+    }
+    
